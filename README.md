@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Hira Adnan
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hira%20Adnan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20AI%20Agentic%20Developer&descAlignY=52&descSize=18"/>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;AI+Agentic+Developer;Building+Intelligent+Mobile+Apps;Creating+AI-Powered+Solutions)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Mobile+Apps+%F0%9F%93%B1;Creating+AI-Powered+Solutions+%F0%9F%A4%96;Clean+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Transforming+Ideas+into+Reality+%E2%9C%A8)
 
 </div>
 
@@ -105,3 +105,5 @@ I am a **Flutter Developer** and **AI Agentic Developer** passionate about build
 ### 💬 *"Building the future, one line of code at a time"*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
